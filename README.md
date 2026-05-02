@@ -7,7 +7,6 @@
   <a href="https://github.com/l6t9"><img src="https://img.shields.io/badge/l6t9-24292e?style=for-the-badge&logo=github" alt="github"/></a>
   <a href="https://codeberg.org/LampDelivery"><img src="https://img.shields.io/badge/LampDelivery-2185D0?style=for-the-badge&logo=codeberg&logoColor=white" alt="codeberg"/></a>
   <a href="https://discord.com/users/650805815623680030"><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/></a>
-  <a href="https://youtube.com/@LampDelivery"><img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"/></a>
   <a href="https://www.last.fm/user/Lmpamapa"><img src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=lastdotfm&logoColor=white" alt="[last.fm](http://last.fm)"/></a>
 </p>
 </div>
