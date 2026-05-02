@@ -50,7 +50,7 @@ A **Material 3 Expressive** music player for Android
 [![source](https://img.shields.io/badge/source-EAF3DE?style=flat-square&color=EAF3DE&labelColor=EAF3DE)](https://github.com/Aliucord/Aliucord)
 [![role](https://img.shields.io/badge/contributor-EAF3DE?style=flat-square&color=EAF3DE&labelColor=EAF3DE)](https://github.com/Aliucord)
 
-A **Discord Android mod** with plugin support, custom themes, and patches. No root required.
+A mod for the legacy Discord Android App
 
 `Kotlin` `Android` `Xposed`
 
