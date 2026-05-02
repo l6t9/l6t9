@@ -22,6 +22,7 @@
 <a href="https://metrolist.cc"><img src="https://img.shields.io/badge/metrolist.cc-6750A4?style=flat-square&logoColor=white"/></a>
 <a href="https://github.com/metrolist"><img src="https://img.shields.io/badge/source-EEDDFF?style=flat-square&color=EEDDFF&labelColor=EEDDFF&logoColor=3C3489"/></a>
 <a href="https://github.com/metrolist"><img src="https://img.shields.io/badge/contributor-EEDDFF?style=flat-square&color=EEDDFF&labelColor=EEDDFF"/></a>
+
 A Material 3 Expressive music player for Android
 </td>
 <td width="50%" valign="top">
@@ -29,6 +30,7 @@ A Material 3 Expressive music player for Android
 <a href="https://aliucord.com"><img src="https://img.shields.io/badge/aliucord.com-3B6D11?style=flat-square&logoColor=white"/></a>
 <a href="https://github.com/Aliucord/Aliucord"><img src="https://img.shields.io/badge/source-EAF3DE?style=flat-square&color=EAF3DE&labelColor=EAF3DE"/></a>
 <a href="https://github.com/Aliucord"><img src="https://img.shields.io/badge/contributor-EAF3DE?style=flat-square&color=EAF3DE&labelColor=EAF3DE"/></a>
+
 A mod for the legacy Discord Android app
 </td>
 </tr>
