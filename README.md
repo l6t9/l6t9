@@ -23,13 +23,6 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=l6t9&show_icons=true&hide_border=true&bg_color=FFFBFF&title_color=6750A4&icon_color=EF9F27&text_color=1C1B1F&ring_color=EF9F27" width="380" alt="lamp's github stats"/>
 
-### about me
-
-- 🎵 big music person — see what i'm listening to on [last.fm](https://www.last.fm/user/Lmpamapa)
-- 💛 contributing to open source apps i actually use daily
-- 🌙 coding at odd hours (utc-5 things)
-- 🗣️ english & french
-- ✨ i might be too *silly*
 
 <br clear="right"/>
 
