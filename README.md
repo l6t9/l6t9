@@ -19,7 +19,14 @@
 
 </div>
 
+---
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=l6t9&show_icons=true&hide_border=true&bg_color=FFFBFF&title_color=6750A4&icon_color=EF9F27&text_color=1C1B1F&ring_color=EF9F27" width="380" alt="lamp's github stats"/>
+
+
+<br clear="right"/>
+
+---
 
 ### projects i contribute to
 
@@ -35,8 +42,7 @@
 [![source](https://img.shields.io/badge/source-EEDDFF?style=flat-square&color=EEDDFF&labelColor=EEDDFF&logoColor=3C3489)](https://github.com/metrolist)
 [![role](https://img.shields.io/badge/contributor-EEDDFF?style=flat-square&color=EEDDFF&labelColor=EEDDFF)](https://github.com/metrolist)
 
-A **Material 3 Expressive** music player for Android 
-
+A Material 3 Expressive music player for Android
 
 </td>
 <td width="50%" valign="top">
@@ -50,7 +56,6 @@ A **Material 3 Expressive** music player for Android
 [![role](https://img.shields.io/badge/contributor-EAF3DE?style=flat-square&color=EAF3DE&labelColor=EAF3DE)](https://github.com/Aliucord)
 
 A mod for the legacy Discord Android App
-
 
 </td>
 </tr>
@@ -71,3 +76,4 @@ A mod for the legacy Discord Android App
 </div>
 
 ---
+
