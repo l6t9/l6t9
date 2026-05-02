@@ -12,7 +12,7 @@
 </p>
 </div>
 <img src="wave.svg" width="100%" alt="---"/>
-
+<div align="center">
 ### projects i contribute to
 
 <table align="center"><tr>
@@ -35,7 +35,7 @@
 </tr></table>
 
 <img src="wave.svg" width="100%" alt="---"/>
-
+<div align="center">
 ### github stats
 
 <div align="center">
