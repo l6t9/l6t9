@@ -26,6 +26,7 @@
 A Material 3 Expressive music player for Android
 </td>
 <td width="50%" valign="top">
+<img src="aliucord.svg" height="48" alt="Metrolist"/>
 <h4><a href="https://aliucord.com">Aliucord</a></h4>
 <a href="https://aliucord.com"><img src="https://img.shields.io/badge/aliucord.com-3B6D11?style=flat-square&logoColor=white"/></a>
 <a href="https://github.com/Aliucord/Aliucord"><img src="https://img.shields.io/badge/source-EAF3DE?style=flat-square&color=EAF3DE&labelColor=EAF3DE"/></a>
