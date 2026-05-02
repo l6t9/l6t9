@@ -18,6 +18,7 @@
 <table>
 <tr>
 <td width="50%" valign="top">
+<img src="metrolist.svg" height="48" alt="Metrolist"/>
 <h4><a href="https://metrolist.cc">Metrolist</a></h4>
 <a href="https://metrolist.cc"><img src="https://img.shields.io/badge/metrolist.cc-6750A4?style=flat-square&logoColor=white"/></a>
 <a href="https://github.com/metrolist"><img src="https://img.shields.io/badge/source-EEDDFF?style=flat-square&color=EEDDFF&labelColor=EEDDFF&logoColor=3C3489"/></a>
