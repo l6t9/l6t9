@@ -15,9 +15,8 @@
 
 ### projects i contribute to
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<table align="center"><tr>
+<td width="50%" valign="top" align="center">
 <table><tr>
 <td valign="middle"><img src="logo.svg" height="64" alt="Metrolist"/></td>
 <td valign="middle"><b><a href="https://metrolist.cc">Metrolist</a></b><br>A Material 3 Expressive music player for Android</td>
@@ -25,7 +24,7 @@
 <a href="https://metrolist.cc"><img src="https://img.shields.io/badge/metrolist.cc-6750A4?style=flat-square&logoColor=white"/></a>
 <a href="https://github.com/metrolist"><img src="https://img.shields.io/badge/source-EEDDFF?style=flat-square&color=EEDDFF&labelColor=EEDDFF&logoColor=3C3489"/></a>
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 <table><tr>
 <td valign="middle"><img src="aliucord.svg" height="64" alt="Aliucord"/></td>
 <td valign="middle"><b><a href="https://aliucord.com">Aliucord</a></b><br>A mod for the legacy Discord Android app</td>
@@ -33,14 +32,15 @@
 <a href="https://aliucord.com"><img src="https://img.shields.io/badge/aliucord.com-3B6D11?style=flat-square&logoColor=white"/></a>
 <a href="https://github.com/Aliucord/Aliucord"><img src="https://img.shields.io/badge/source-EAF3DE?style=flat-square&color=EAF3DE&labelColor=EAF3DE"/></a>
 </td>
-</tr>
-</table>
+</tr></table>
+
 <img src="wave.svg" width="100%" alt="---"/>
 
 ### github stats
 
-<div align="left">
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=l6t9&theme=github" height="160"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=l6t9&theme=github" height="160"/>
 </div>
+
 <img src="wave.svg" width="100%" alt="---"/>
