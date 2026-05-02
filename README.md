@@ -18,7 +18,8 @@
 [![last.fm](https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=lastdotfm&logoColor=white)](https://www.last.fm/user/Lmpamapa)
 
 </div>
----
+</td>
+<td width="50%" valign="top">
 <br clear="right"/>
 
 ### projects i contribute to
