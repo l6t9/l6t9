@@ -10,7 +10,7 @@
 
 <br/>
 
----[
+---
 
 ![website](https://img.shields.io/badge/lamp.delivery-FAD43B?style=for-the-badge&logoColor=412402)](https://www.lamp.delivery/)
 [![github](https://img.shields.io/badge/l6t9-24292e?style=for-the-badge&logo=github)](https://github.com/l6t9)
