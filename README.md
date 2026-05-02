@@ -37,7 +37,6 @@
 
 A **Material 3 Expressive** music player for Android 
 
-`Kotlin` `Compose Multiplatform` `mpv`
 
 </td>
 <td width="50%" valign="top">
@@ -52,7 +51,6 @@ A **Material 3 Expressive** music player for Android
 
 A mod for the legacy Discord Android App
 
-`Kotlin` `Android` `Xposed`
 
 </td>
 </tr>
