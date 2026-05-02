@@ -38,8 +38,9 @@ A mod for the legacy Discord Android app
 
 ### github stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=l6t9&hide_border=true&border_radius=16&bg_color=EEDDFF&title_color=21005D&text_color=1C1B1F&icon_color=6750A4&ring_color=6750A4&border_color=D0BCFF&show_icons=true&hide=contribs&custom_title=stats" height="160" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=l6t9&hide_border=true&border_radius=16&bg_color=EEDDFF&title_color=21005D&text_color=1C1B1F&border_color=D0BCFF&custom_title=languages&layout=compact&langs_count=6" height="160" alt="languages"/>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=l6t9&theme=github" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=l6t9&theme=github" height="160"/>
 </div>
 
 <img src="wave.svg" width="100%" alt="---"/>
