@@ -2,7 +2,7 @@
 
 <img src="https://github.com/l6t9.png" width="96" style="border-radius:50%" alt="lamp"/>
 
-<h2>heya, i'm lamp ✦</h2>
+<h2>heya, i'm lamp </h2>
 
 <p><b>any/all &nbsp;·&nbsp; EST &nbsp;·&nbsp; probably too silly</b></p>
 
@@ -19,8 +19,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="separator"/>
 
-> [!NOTE]
-> ### ✦ &nbsp; projects i contribute to
+> ### projects i contribute to
 
 <table>
 <tr>
@@ -47,8 +46,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="separator"/>
 
-> [!NOTE]
-> ### ✦ &nbsp; github stats
+> ### github stats
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=l6t9&hide_border=true&background=FFFBFF&ring=EF9F27&fire=EF9F27&currStreakLabel=6750A4&sideLabels=6750A4&dates=5F5E5A&currStreakNum=1C1B1F&sideNums=1C1B1F" alt="streak stats"/>
