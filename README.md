@@ -11,13 +11,15 @@
   <a href="https://www.last.fm/user/Lmpamapa"><img src="https://img.shields.io/badge/last.fm-FFE4E1?style=for-the-badge&logo=lastdotfm&color=FFE4E1&logoColor=9B1C1C" alt="last.fm"/></a>
 </p>
 </div>
+
 <img src="wave.svg" width="100%" alt="---"/>
+
 <div align="center">
-  
+
 ### projects i contribute to
 
-<table align="center"><tr>
-<td width="50%" valign="top" align="center">
+<table><tr>
+<td valign="top" align="center">
 <table><tr>
 <td valign="middle"><img src="logo.svg" height="64" alt="Metrolist"/></td>
 <td valign="middle"><b><a href="https://metrolist.cc">Metrolist</a></b><br>A Material 3 Expressive music player for Android</td>
@@ -25,7 +27,7 @@
 <a href="https://metrolist.cc"><img src="https://img.shields.io/badge/metrolist.cc-6750A4?style=flat-square&logoColor=white"/></a>
 <a href="https://github.com/metrolist"><img src="https://img.shields.io/badge/source-EEDDFF?style=flat-square&color=EEDDFF&labelColor=EEDDFF&logoColor=3C3489"/></a>
 </td>
-<td width="50%" valign="top" align="center">
+<td valign="top" align="center">
 <table><tr>
 <td valign="middle"><img src="aliucord.svg" height="64" alt="Aliucord"/></td>
 <td valign="middle"><b><a href="https://aliucord.com">Aliucord</a></b><br>A mod for the legacy Discord Android app</td>
@@ -35,14 +37,17 @@
 </td>
 </tr></table>
 
+</div>
+
 <img src="wave.svg" width="100%" alt="---"/>
-<div align="center">
-  
-### github stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=l6t9&theme=github" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=l6t9&theme=github" height="160"/>
+
+### github stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=l6t9&hide_border=true&border_radius=16&bg_color=1E1B2E&title_color=D0BCFF&text_color=CAC4D0&icon_color=D0BCFF&show_icons=true&hide=contribs&custom_title=stats" height="160" alt="stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=l6t9&hide_border=true&border_radius=16&bg_color=1E1B2E&title_color=D0BCFF&text_color=CAC4D0&layout=compact&langs_count=6&custom_title=languages" height="160" alt="languages"/>
+
 </div>
 
 <img src="wave.svg" width="100%" alt="---"/>
