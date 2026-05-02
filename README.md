@@ -35,7 +35,7 @@
 [![source](https://img.shields.io/badge/source-EEDDFF?style=flat-square&color=EEDDFF&labelColor=EEDDFF&logoColor=3C3489)](https://github.com/metrolist)
 [![role](https://img.shields.io/badge/contributor-EEDDFF?style=flat-square&color=EEDDFF&labelColor=EEDDFF)](https://github.com/metrolist)
 
-A **Material 3 Expressive** music player for Android & desktop. Streams YouTube Music natively — no Electron, no web wrappers.
+A **Material 3 Expressive** music player for Android 
 
 `Kotlin` `Compose Multiplatform` `mpv`
 
