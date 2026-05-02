@@ -21,7 +21,11 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=l6t9&show_icons=true&hide_border=true&bg_color=FFFBFF&title_color=6750A4&icon_color=EF9F27&text_color=1C1B1F&ring_color=EF9F27" width="380" alt="lamp's github stats"/>
+<!-- stats card -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=l6t9&show_icons=true&hide_border=true&bg_color=FFFBFF&title_color=6750A4&icon_color=EF9F27&text_color=1C1B1F&ring_color=EF9F27"/>
+
+<!-- languages card -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=l6t9&layout=compact&hide_border=true&bg_color=FFFBFF&title_color=6750A4&text_color=1C1B1F"/>
 
 
 <br clear="right"/>
