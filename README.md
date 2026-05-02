@@ -25,7 +25,7 @@
 <tr>
 <td width="50%" valign="top">
 
-**[Metrolist](https://metrolist.cc)** &nbsp;—&nbsp; *Material 3 Expressive music player for Android*
+**[Metrolist](https://metrolist.cc)** &nbsp;&nbsp; *Material 3 Expressive music player for Android*
 
 [![metrolist.cc](https://img.shields.io/badge/metrolist.cc-6750A4?style=flat-square&logoColor=white)](https://metrolist.cc)
 [![source](https://img.shields.io/badge/source-EEDDFF?style=flat-square&color=EEDDFF&labelColor=EEDDFF&logoColor=3C3489)](https://github.com/metrolist)
@@ -34,7 +34,7 @@
 </td>
 <td width="50%" valign="top">
 
-**[Aliucord](https://aliucord.com)** &nbsp;—&nbsp; *mod for the legacy Discord Android app*
+**[Aliucord](https://aliucord.com)** &nbsp;&nbsp; *mod for the legacy Discord Android app*
 
 [![aliucord.com](https://img.shields.io/badge/aliucord.com-3B6D11?style=flat-square&logoColor=white)](https://aliucord.com)
 [![source](https://img.shields.io/badge/source-EAF3DE?style=flat-square&color=EAF3DE&labelColor=EAF3DE)](https://github.com/Aliucord/Aliucord)
