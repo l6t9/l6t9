@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://github.com/l6t9.png" width="100" style="border-radius:50%" alt="lamp"/>
+<img src="https://github.com/l6t9.png" width="96" style="border-radius:50%" alt="lamp"/>
 
-<h3>heya, i'm lamp!</h3>
+<h2>heya, i'm lamp ✦</h2>
 
 <p><b>any/all &nbsp;·&nbsp; EST &nbsp;·&nbsp; probably too silly</b></p>
 
@@ -17,45 +17,42 @@
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="separator"/>
 
-### projects i contribute to
+> [!NOTE]
+> ### ✦ &nbsp; projects i contribute to
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h4><a href="https://metrolist.cc">Metrolist</a></h4>
+**[Metrolist](https://metrolist.cc)** &nbsp;—&nbsp; *Material 3 Expressive music player for Android*
 
-<a href="https://metrolist.cc"><img src="https://img.shields.io/badge/metrolist.cc-6750A4?style=flat-square&logoColor=white"/></a>
-<a href="https://github.com/metrolist"><img src="https://img.shields.io/badge/source-EEDDFF?style=flat-square&color=EEDDFF&labelColor=EEDDFF&logoColor=3C3489"/></a>
-<a href="https://github.com/metrolist"><img src="https://img.shields.io/badge/contributor-EEDDFF?style=flat-square&color=EEDDFF&labelColor=EEDDFF"/></a>
-
-A Material 3 Expressive music player for Android
+[![metrolist.cc](https://img.shields.io/badge/metrolist.cc-6750A4?style=flat-square&logoColor=white)](https://metrolist.cc)
+[![source](https://img.shields.io/badge/source-EEDDFF?style=flat-square&color=EEDDFF&labelColor=EEDDFF&logoColor=3C3489)](https://github.com/metrolist)
+[![contributor](https://img.shields.io/badge/contributor-EEDDFF?style=flat-square&color=EEDDFF&labelColor=EEDDFF)](https://github.com/metrolist)
 
 </td>
 <td width="50%" valign="top">
 
-<h4><a href="https://aliucord.com">Aliucord</a></h4>
+**[Aliucord](https://aliucord.com)** &nbsp;—&nbsp; *mod for the legacy Discord Android app*
 
-<a href="https://aliucord.com"><img src="https://img.shields.io/badge/aliucord.com-3B6D11?style=flat-square&logoColor=white"/></a>
-<a href="https://github.com/Aliucord/Aliucord"><img src="https://img.shields.io/badge/source-EAF3DE?style=flat-square&color=EAF3DE&labelColor=EAF3DE"/></a>
-<a href="https://github.com/Aliucord"><img src="https://img.shields.io/badge/contributor-EAF3DE?style=flat-square&color=EAF3DE&labelColor=EAF3DE"/></a>
-
-A mod for the legacy Discord Android app
+[![aliucord.com](https://img.shields.io/badge/aliucord.com-3B6D11?style=flat-square&logoColor=white)](https://aliucord.com)
+[![source](https://img.shields.io/badge/source-EAF3DE?style=flat-square&color=EAF3DE&labelColor=EAF3DE)](https://github.com/Aliucord/Aliucord)
+[![contributor](https://img.shields.io/badge/contributor-EAF3DE?style=flat-square&color=EAF3DE&labelColor=EAF3DE)](https://github.com/Aliucord)
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="separator"/>
 
-### github stats
+> [!NOTE]
+> ### ✦ &nbsp; github stats
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=l6t9&hide_border=true&background=FFFBFF&ring=EF9F27&fire=EF9F27&currStreakLabel=6750A4&sideLabels=6750A4&dates=5F5E5A&currStreakNum=1C1B1F&sideNums=1C1B1F" alt="streak"/>
-
+<img src="https://streak-stats.demolab.com?user=l6t9&hide_border=true&background=FFFBFF&ring=EF9F27&fire=EF9F27&currStreakLabel=6750A4&sideLabels=6750A4&dates=5F5E5A&currStreakNum=1C1B1F&sideNums=1C1B1F" alt="streak stats"/>
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="separator"/>
+
