@@ -13,6 +13,8 @@
 
 ---
 
+<div align="center">
+
 ### projects i contribute to
 <table>
 <tr>
