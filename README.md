@@ -11,7 +11,9 @@
   <a href="https://www.last.fm/user/Lmpamapa"><img src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=lastdotfm&logoColor=white" alt="[last.fm](http://last.fm)"/></a>
 </p>
 </div>
+
 ---
+
 ### projects i contribute to
 <table>
 <tr>
@@ -31,9 +33,12 @@ A mod for the legacy Discord Android app
 </td>
 </tr>
 </table>
+
 ---
+
 ### github stats
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=l6t9&hide_border=true&background=FFFBFF&ring=EF9F27&fire=EF9F27&currStreakLabel=6750A4&sideLabels=6750A4&dates=5F5E5A&currStreakNum=1C1B1F&sideNums=1C1B1F" alt="streak"/>
 </div>
+
 ---
