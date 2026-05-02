@@ -19,13 +19,8 @@
 
 </div>
 
----
-
-
-
 <br clear="right"/>
 
----
 
 ### projects i contribute to
 
