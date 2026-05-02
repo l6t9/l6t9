@@ -63,10 +63,6 @@ A mod for the legacy Discord Android App
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=l6t9&show_icons=true&hide_border=true&bg_color=FFFBFF&title_color=6750A4&icon_color=EF9F27&text_color=1C1B1F&ring_color=EF9F27" height="160" alt="stats"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l6t9&layout=compact&hide_border=true&bg_color=FFFBFF&title_color=6750A4&text_color=1C1B1F&langs_count=6" height="160" alt="languages"/>
-
 <img src="https://streak-stats.demolab.com?user=l6t9&hide_border=true&background=FFFBFF&ring=EF9F27&fire=EF9F27&currStreakLabel=6750A4&sideLabels=6750A4&dates=5F5E5A&currStreakNum=1C1B1F&sideNums=1C1B1F" alt="streak"/>
 
 </div>
