@@ -6,7 +6,7 @@
 
 ### heya, i'm lamp!
 
-**any/all &nbsp;·&nbsp; utc-5 &nbsp;·&nbsp; probably too silly**
+**any/all &nbsp;·&nbsp; EST &nbsp;·&nbsp; probably too silly**
 
 <br/>
 
