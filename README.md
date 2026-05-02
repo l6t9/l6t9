@@ -12,6 +12,7 @@
 </p>
 </div>
 <img src="wave.svg" width="100%" alt="---"/>
+
 ### projects i contribute to
 
 <table>
@@ -35,6 +36,7 @@
 </tr>
 </table>
 <img src="wave.svg" width="100%" alt="---"/>
+
 ### github stats
 
 <div align="left">
