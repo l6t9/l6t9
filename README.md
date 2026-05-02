@@ -13,6 +13,7 @@
 </div>
 <img src="wave.svg" width="100%" alt="---"/>
 ### projects i contribute to
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -35,6 +36,7 @@
 </table>
 <img src="wave.svg" width="100%" alt="---"/>
 ### github stats
+
 <div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=l6t9&theme=github" height="160"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=l6t9&theme=github" height="160"/>
