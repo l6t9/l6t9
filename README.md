@@ -14,7 +14,7 @@
 
 ---
 
-### projects i contribute to
+### projects I contribute to
 <table>
 <tr>
 <td width="50%" valign="top">
