@@ -35,8 +35,9 @@ A mod for the legacy Discord Android app
 
 ---
 
+<div align="center">
 ### github stats
-<div align="left">
+
 <img src="https://streak-stats.demolab.com?user=l6t9&hide_border=true&background=FFFBFF&ring=EF9F27&fire=EF9F27&currStreakLabel=6750A4&sideLabels=6750A4&dates=5F5E5A&currStreakNum=1C1B1F&sideNums=1C1B1F" alt="streak"/>
 </div>
 
