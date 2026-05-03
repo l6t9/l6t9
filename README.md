@@ -26,7 +26,7 @@
 </tr></table>
 <a href="https://metrolist.cc"><img src="https://img.shields.io/badge/metrolist.cc-6750A4?style=flat-square&logoColor=white"/></a>
 <a href="https://github.com/metrolist"><img src="https://img.shields.io/badge/source-EEDDFF?style=flat-square&color=EEDDFF&labelColor=EEDDFF&logoColor=3C3489"/></a>
-</td><br>
+</td>
 <td valign="top" align="center">
 <table><tr>
 <td valign="middle"><img src="aliucord.svg" height="64" alt="Aliucord"/></td>
