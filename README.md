@@ -38,16 +38,3 @@
 </tr></table>
 
 </div>
-
-<img src="wave.svg" width="100%" alt="---"/>
-
-<div align="center">
-
-### github stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=l6t9&hide_border=true&border_radius=16&bg_color=1E1B2E&title_color=D0BCFF&text_color=CAC4D0&icon_color=D0BCFF&show_icons=true&hide=contribs&custom_title=stats" height="160" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=l6t9&hide_border=true&border_radius=16&bg_color=1E1B2E&title_color=D0BCFF&text_color=CAC4D0&layout=compact&langs_count=6&custom_title=languages" height="160" alt="languages"/>
-
-</div>
-
-<img src="wave.svg" width="100%" alt="---"/>
