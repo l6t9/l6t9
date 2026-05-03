@@ -21,7 +21,7 @@
 <table>
 <tr>
 <td valign="top" align="center">
-<table><tr>
+<table width=100%><tr>
 <td valign="middle"><img src="logo.svg" height="64" alt="Metrolist"/></td>
 <td valign="middle"><b><a href="https://metrolist.cc">Metrolist</a></b><br>A Material 3 Expressive music player for Android</td>
 </tr></table>
@@ -31,7 +31,7 @@
 </tr>
 <tr>
 <td valign="top" align="center">
-<table><tr>
+<table width=100%><tr>
 <td valign="middle"><img src="aliucord.svg" height="64" alt="Aliucord"/></td>
 <td valign="middle"><b><a href="https://aliucord.com">Aliucord</a></b><br>A mod for the legacy Discord Android app</td>
 </tr></table>
