@@ -18,7 +18,7 @@
 
 ### projects i contribute to
 
-<table>
+<table width=100%>
 <tr>
 <td valign="top" align="center">
 <table width=100%><tr>
@@ -34,7 +34,7 @@
 <table width=100%><tr>
 <td valign="middle"><img src="aliucord.svg" height="64" alt="Aliucord"/></td>
 <td valign="middle"><b><a href="https://aliucord.com">Aliucord</a></b><br>A mod for the legacy Discord Android app</td>
-</tr></table>
+</tr></table width=100%>
 <a href="https://aliucord.com"><img src="https://img.shields.io/badge/aliucord.com-3B6D11?style=flat-square&logoColor=white"/></a>
 <a href="https://github.com/Aliucord/Aliucord"><img src="https://img.shields.io/badge/source-EAF3DE?style=flat-square&color=EAF3DE&labelColor=EAF3DE"/></a>
 </td>
