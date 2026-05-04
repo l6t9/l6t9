@@ -25,7 +25,7 @@
 <td valign="middle"><b><a href="https://metrolist.cc">Metrolist</a></b><br>A Material 3 Expressive music player for Android</td>
 </tr></table>
 <a href="https://metrolist.cc"><img src="https://img.shields.io/badge/metrolist.cc-6750A4?style=flat-square&logoColor=white"/></a>
-<a href="https://github.com/metrolist"><img src="https://img.shields.io/badge/source-EEDDFF?style=flat-square&color=EEDDFF&labelColor=EEDDFF&logoColor=3C3489"/></a>
+<a href="https://github.com/MetrolistGroup/Metrolist"><img src="https://img.shields.io/badge/source-EEDDFF?style=flat-square&color=EEDDFF&labelColor=EEDDFF&logoColor=3C3489"/></a>
 </td>
 </tr></table>
 
