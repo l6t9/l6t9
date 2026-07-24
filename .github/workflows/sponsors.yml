@@ -31,7 +31,6 @@ jobs:
         run: |
           cd /tmp/sponsor-graph
           node generate-graph.js -o "${{ github.workspace }}/sponsors.png" -d
-          cp "${{ github.workspace }}/sponsors.png" "${{ github.workspace }}/sponsors.png"
 
       - name: Commit and push
         run: |
