@@ -41,3 +41,17 @@
 </tr></table>
 
 </div>
+
+<img src="wave.svg" width="100%" alt="---"/>
+
+<div align="center">
+
+### 💖 sponsors
+
+<a href="https://github.com/sponsors/l6t9">
+  <img src="sponsors.png" alt="Sponsors" style="max-width: 100%;"/>
+</a>
+
+*thank you to everyone who supports me!*
+
+</div>
