@@ -14,6 +14,13 @@
 
 <img src="wave.svg" width="100%" alt="---"/>
 
+| **Thanks a lot to all my [sponsors](https://github.com/sponsors/l6t9)!** |
+|:--:|
+| [![Sponsors](sponsors.png)](https://github.com/sponsors/l6t9) |
+| *generated using [github-sponsor-graph](https://github.com/Vendicated/github-sponsor-graph)* |
+
+<img src="wave.svg" width="100%" alt="---"/>
+
 <div align="center">
 
 ### projects i contribute to
@@ -39,19 +46,5 @@
 <a href="https://github.com/Aliucord/Aliucord"><img src="https://img.shields.io/badge/source-EAF3DE?style=flat-square&color=EAF3DE&labelColor=EAF3DE"/></a>
 </td>
 </tr></table>
-
-</div>
-
-<img src="wave.svg" width="100%" alt="---"/>
-
-<div align="center">
-
-### 💖 sponsors
-
-<a href="https://github.com/sponsors/l6t9">
-  <img src="sponsors.png" alt="Sponsors" style="max-width: 100%;"/>
-</a>
-
-*thank you to everyone who supports me!*
 
 </div>
