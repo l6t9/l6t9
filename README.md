@@ -12,18 +12,10 @@
 </p>
 </div>
 
-<p align="center">
-  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='4'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' y1='0' x2='1' y2='0'%3E%3Cstop offset='0' stop-color='%236750A4'/%3E%3Cstop offset='0.5' stop-color='%23D0BCFF'/%3E%3Cstop offset='1' stop-color='%236750A4'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='120' height='4' rx='2' fill='url(%23g)'/%3E%3C/svg%3E" alt="---"/>
-</p>
-
 | **Thanks a lot to all my [sponsors](https://github.com/sponsors/l6t9)!** |
 |:--:|
 | [![Sponsors](sponsors.png)](https://github.com/sponsors/l6t9) |
 | *generated using [github-sponsor-graph](https://github.com/Vendicated/github-sponsor-graph)* |
-
-<p align="center">
-  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='4'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' y1='0' x2='1' y2='0'%3E%3Cstop offset='0' stop-color='%236750A4'/%3E%3Cstop offset='0.5' stop-color='%23D0BCFF'/%3E%3Cstop offset='1' stop-color='%236750A4'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='120' height='4' rx='2' fill='url(%23g)'/%3E%3C/svg%3E" alt="---"/>
-</p>
 
 <div align="center">
 
