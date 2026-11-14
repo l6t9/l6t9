@@ -25,7 +25,7 @@
 <td valign="top" align="center">
 <table><tr>
 <td valign="middle"><img src="aliucord.svg" height="64" alt="Lampcord"/></td>
-<td valign="middle"><b><a href="https://lampu.dev">Lampcord</a></b><br>A mod for the legacy Discord Android app</td>
+<td valign="middle"><b><a href="https://cord.lampu.dev">Lampcord</a></b><br>A mod for the legacy Discord Android app</td>
 </tr></table>
 <a href="https://cord.lampu.dev"><img src="https://img.shields.io/badge/lampu.dev-3B6D11?style=flat-square&logoColor=white"/></a>
 <a href="https://github.com/l6t9/Lampcord"><img src="https://img.shields.io/badge/source-EAF3DE?style=flat-square&color=EAF3DE&labelColor=EAF3DE"/></a>
