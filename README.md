@@ -19,13 +19,26 @@
 
 <div align="center">
 
+### projects i started
+
+<table><tr>
+<td valign="top" align="center">
+<table><tr>
+<td valign="middle"><img src="aliucord.svg" height="64" alt="Lampcord"/></td>
+<td valign="middle"><b><a href="https://aliucord.com">Aliucord</a></b><br>A mod for the legacy Discord Android app</td>
+</tr></table>
+<a href="https://cord.lampu.dev"><img src="https://img.shields.io/badge/lampu.dev-3B6D11?style=flat-square&logoColor=white"/></a>
+<a href="https://github.com/l6t9/Lampcord"><img src="https://img.shields.io/badge/source-EAF3DE?style=flat-square&color=EAF3DE&labelColor=EAF3DE"/></a>
+</td>
+</tr></table>
+
 ### projects i contribute to
 
 <table><tr>
 <td valign="top" align="center">
 <table><tr>
 <td valign="middle"><img src="logo.svg" height="64" alt="Metrolist"/></td>
-<td valign="middle"><b><a href="https://metrolist.cc">Metrolist</a></b><br>A Material 3 Expressive music player for Android</td>
+<td valign="middle"><b><a href="https://metrolist.cc">Metrolist</a></b><br>A Material 3 Expressive music player for Mobile and Desktop</td>
 </tr></table>
 <a href="https://metrolist.cc"><img src="https://img.shields.io/badge/metrolist.cc-6750A4?style=flat-square&logoColor=white"/></a>
 <a href="https://github.com/MetrolistGroup/Metrolist"><img src="https://img.shields.io/badge/source-EEDDFF?style=flat-square&color=EEDDFF&labelColor=EEDDFF&logoColor=3C3489"/></a>
