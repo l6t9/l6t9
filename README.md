@@ -3,7 +3,7 @@
 <h3>heya, i'm lamp!</h3>
 <p><b>any/all &nbsp;·&nbsp; EST &nbsp;·&nbsp; might be too silly</b></p>
 <p>
-  <a href="https://www.lamp.delivery/"><img src="https://img.shields.io/badge/lamp.delivery-412402?style=for-the-badge&color=FAD43B&logoColor=412402" alt="website"/></a>
+  <a href="https://www.lampu.dev/"><img src="https://img.shields.io/badge/lamp.delivery-412402?style=for-the-badge&color=FAD43B&logoColor=412402" alt="website"/></a>
   <a href="https://github.com/l6t9"><img src="https://img.shields.io/badge/l6t9-E8DEF8?style=for-the-badge&logo=github&color=E8DEF8&logoColor=21005D" alt="github"/></a>
   <a href="https://codeberg.org/LampDelivery"><img src="https://img.shields.io/badge/LampDelivery-DBEAFE?style=for-the-badge&logo=codeberg&color=DBEAFE&logoColor=1E3A5F" alt="codeberg"/></a>
   <a href="https://discord.com/users/650805815623680030"><img src="https://img.shields.io/badge/discord-EDE9FE?style=for-the-badge&logo=discord&color=EDE9FE&logoColor=3730A3" alt="discord"/></a>
