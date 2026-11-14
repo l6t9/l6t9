@@ -24,7 +24,7 @@
 <table><tr>
 <td valign="top" align="center">
 <table><tr>
-<td valign="middle"></td>
+<td valign="middle"><img src="logo.svg" height="64" alt="Lampcord"/></td>
 <td valign="middle"><b><a href="https://cord.lampu.dev">Lampcord</a></b><br>A Kotlin Multiplatform Material 3 Discord client</td>
 </tr></table>
 <a href="https://cord.lampu.dev"><img src="https://img.shields.io/badge/lampu.dev-3B6D11?style=flat-square&logoColor=white"/></a>
